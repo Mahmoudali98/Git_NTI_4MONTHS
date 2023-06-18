@@ -1,0 +1,2 @@
+MCAL/EXTI_0/EXTI_0_prg.o MCAL/EXTI_0/EXTI_0_prg.o:  \
+ ../MCAL/EXTI_0/EXTI_0_prg.c
